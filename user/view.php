@@ -18,7 +18,7 @@
 			<thead>
 				<tr>
 					<th>No</th>
-					<th>ID</th>
+					<th>Id</th>
 					<th>Nama</th>
 					
 					
